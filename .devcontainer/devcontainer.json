@@ -1,0 +1,9 @@
+{
+  "name": "CS50-like Environment",
+  "image": "mcr.microsoft.com/devcontainers/python:latest",
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils": true,
+    "ghcr.io/devcontainers/features/python": true,
+    "ghcr.io/devcontainers/features/docker-in-docker": true
+  }
+}
